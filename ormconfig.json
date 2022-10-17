@@ -1,0 +1,13 @@
+[
+  {
+    "name": "default",
+    "type": "postgres",
+    "host": "test-rds.ctbawdqzszza.eu-west-3.rds.amazonaws.com",
+    "port": 5432,
+    "username": "postgres",
+    "password": "oeSVUvdRz0wm05qPjx90",
+    "database": "",
+    "synchronize": false,
+    "entities": ["entities/*.js"]
+  }
+]
